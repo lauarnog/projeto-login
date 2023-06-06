@@ -16,7 +16,8 @@ grandes telas: +1200px
     }
     
     section#login {
-        width: 90vw;
+        width: 80vw;
+        height: 280px;
     }
 
     section#login > div#imagem {
@@ -48,6 +49,7 @@ grandes telas: +1200px
 
     section#login {
         width: 950px;
+        height: 280px;
     }
 
     section#login > div#imagem {
